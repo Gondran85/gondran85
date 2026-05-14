@@ -5,7 +5,6 @@
 
 <div align="center">
   
-  <b>`プログラマ`</b>
   <samp>
       <br>
       Hi there! I'm <b>Jefferson Gondran</b>
@@ -13,7 +12,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=c1121f&width=900&size=22&center=true&lines=Nacionality+Brazilan;Software+Engineer;Mobile+Apps+Developer;AWS+Certified+Cloud+Practitioner;Seja+Bem+Vindo!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=c1121f&width=900&size=22&center=true&lines=Nacionality+Brazilan;Software+Engineer;Mobile+Apps+Developer;AWS+Certified+Cloud+Practitioner;WELCOME!" alt="Typing SVG"/>
 </div>
 
 <br>
