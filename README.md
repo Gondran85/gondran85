@@ -117,8 +117,8 @@
   <p align="center">
     <img 
       align="center" 
-      src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fgondran85&s=30&c=c1121f&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" 
-      alt="Profile Visits Counter"
+      <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FGondran85"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGondran85&countColor=%23263759" /></a>
+      
     />
   </p> 
 </div>
