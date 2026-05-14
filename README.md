@@ -13,7 +13,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=c1121f&width=900&size=22&center=true&lines=Nacionalidade+Brasileira;Estundante+de+Engenharia+de+Software;Desenvolvimento+Mobile+Apps;Seja+Bem+Vindo!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=c1121f&width=900&size=22&center=true&lines=Nacionality+Brazilan;Software+Engineer;Mobile+Apps+Developer;AWS+Certified+Cloud+Practitioner;Seja+Bem+Vindo!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -90,7 +90,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gondran.jefferson@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/gondran85/?next=%2F)
   [![Discord](https://img.shields.io/badge/Discord-6e3a5d?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/j-s-2136b2264/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/jefferson-santos-2136b2264/)
   
 </div>
 
