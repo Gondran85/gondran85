@@ -26,17 +26,12 @@
 <br>
 
 <div align="center">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=outrun&fontFamily=&preferLogin=false">   
-    <img  alt="Gondran85's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Gondran85?cardType=level&theme=outrun&fontFamily=&preferLogin=false" /> 
-    </a>
+    <p align="center">
+  <a href="https://github.com/gondran85">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gondran85&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
   
-
-  <img 
-    height="180" 
-    align="center" 
-    alt="Top Languages" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gondran85&layout=compact&font=Iosevka&langs_count=16&theme=dark&hide_border=true"
-  />
 
   <br>
   <br>
