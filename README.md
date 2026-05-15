@@ -11,7 +11,7 @@
 
 <div align="center" width="100%">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=c1121f&width=900&size=22&center=true&lines=Brazilian;Software+Engineering+Student;Mobile+Apps+Developer;AWS+Certified+Cloud+Practitioner;Welcome+to+my+GitHub+Profile!" 
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=c1121f&width=900&size=22&center=true&lines=Brazilian;Software+Engineering;Mobile+Apps+Developer;AWS+Certified+Cloud+Practitioner;Welcome+to+my+GitHub+Profile!" 
     alt="Typing SVG"
   />
 </div>
@@ -26,12 +26,10 @@
 <br>
 
 <div align="center">
-  <img 
-    height="180" 
-    align="center" 
-    alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=gondran85&theme=dark&font=Iosevka&show_icons=true&hide_border=true&count_private=true&rank_icon=github"
-  />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=outrun&fontFamily=&preferLogin=false">   
+    <img  alt="Gondran85's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Gondran85?cardType=level&theme=outrun&fontFamily=&preferLogin=false" /> 
+    </a>
+  
 
   <img 
     height="180" 
