@@ -11,7 +11,7 @@
 
 <div align="center" width="100%">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=c1121f&width=900&size=22&center=true&lines=Brazilian;Software+Engineering;Mobile+Apps+Developer;AWS+Certified+Cloud+Practitioner;Welcome+to+my+GitHub+Profile!" 
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=c1121f&width=900&size=22&center=true&lines=Brazilian;Software+Engineer;Mobile+Apps+Developer;AWS+Certified+Cloud+Practitioner;Welcome+to+my+GitHub+Profile!" 
     alt="Typing SVG"
   />
 </div>
